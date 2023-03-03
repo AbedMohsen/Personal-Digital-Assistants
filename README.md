@@ -2,7 +2,7 @@
 
 ## Description
 
-A basic React project that uses bulma CSS framework to display PDAs cards.
+A basic React project that uses Bulma CSS framework to display PDAs cards.
 
 ## Acknowledgments
 
